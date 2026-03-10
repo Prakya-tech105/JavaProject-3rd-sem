@@ -1,0 +1,8 @@
+com\myplanner\model\TaskStatus.class
+com\myplanner\repository\TaskRepository.class
+com\myplanner\model\Task.class
+com\myplanner\config\SecurityConfig.class
+com\myplanner\controller\TaskController.class
+com\myplanner\model\TaskPriority.class
+com\myplanner\MyPlannerApplication.class
+com\myplanner\service\TaskService.class
